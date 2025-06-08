@@ -128,10 +128,15 @@ class Your_controller extends CI_Controller {
         redirect('your_controller');
     }
 }
+<<<<<<< HEAD
 ```
 
 ### View (`application/views/your_form.php`)
 ```html
+=======
+
+View (application/views/your_form.php)
+>>>>>>> c2f927f3ff0b7df7bf53161cc3a50ca799b671d6
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -155,6 +160,7 @@ class Your_controller extends CI_Controller {
     </form>
 </body>
 </html>
+<<<<<<< HEAD
 ```
 
 ## Contributing
@@ -162,3 +168,10 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+=======
+
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue on GitHub to suggest improvements or report bugs.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+>>>>>>> c2f927f3ff0b7df7bf53161cc3a50ca799b671d6
